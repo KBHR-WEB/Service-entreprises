@@ -3,6 +3,10 @@ body{
     margin: 4px;
     position: relative;
 }
+img.logo{
+    width: 40px;
+    display: block;
+}
 footer{
     color: black;
     text-align: center;

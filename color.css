@@ -1,0 +1,92 @@
+body{
+    background-color: #456ba5;
+    margin: 4px;
+    position: relative;
+}
+footer{
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 4pt;
+    background-color: #e1d102;
+    background-attachment: scroll;
+    padding: 5px; 
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-top: 25px;
+}
+h5.info{
+    font-size: 5pt;
+    text-decoration: underline;
+    text-decoration-color: #000000;
+    font-style: italic;
+}
+p.info{
+    font-weight: bold;
+    font-style: italic;
+}
+div.address{
+    font-size: 5px;
+    text-align: center;
+    border-style: dashed;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 30px;
+    margin-top: 9px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+   padding-bottom: 3px;
+}
+a.mail{
+    text-decoration-line: none;
+}
+
+h2.ds{
+    font-size: 6px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: solid;
+    border-width: 0.01cm;
+    border-color: #e1d102;
+    border-radius: 50px;
+    padding: 5px;
+}
+p.exp{
+    font-size: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(255, 255, 255, 0.466);
+    padding: 3px;
+}
+h4.db{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0px;
+}
+ul.db{
+    font-size: 6px;
+    margin-left: 12px;
+    list-style-type: square;
+    padding: 2px;
+    margin-top: 3px;
+}
+li::marker{
+    size: 5px;
+}
+div.db{
+    border-style: dotted;
+    border-width: 0.01cm;
+    margin-bottom: 12px;
+    border-color: #e1d102;
+    padding: 6px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.555);
+}
+div.dc{
+    border-style: dotted;
+    border-width: 0.01cm;
+    margin-bottom: 12px;
+    border-color: white;
+    padding: 6px;
+    background-color: #e1d20283;
+}

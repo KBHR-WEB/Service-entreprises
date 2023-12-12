@@ -1,0 +1,157 @@
+body{
+    background-color: #456ca6;
+    position: relative;
+    margin: 5px;
+}
+img.logo{
+    width: 30px;
+    margin-right: 10px;
+}
+footer{
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 4pt;
+    background-color: #e1d102;
+    background-attachment: scroll;
+    padding: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-top: 25px;
+}
+h5.info{
+    font-size: 5pt;
+    text-decoration: underline;
+    text-decoration-color: #000000;
+    font-style: italic;
+}
+p.info{
+    font-weight: bold;
+    font-style: italic;
+}
+div.address{
+    font-size: 5px;
+    text-align: center;
+    border-style: dashed;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 30px;
+    margin-top: 9px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+   padding-bottom: 3px;
+}
+a.mail{
+    text-decoration: none;
+}
+  .menu-container {
+    height: 10px;
+    position: relative;
+  }
+  .side-menu {
+    height: 100px;
+    width: 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: white;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 6px;
+  }
+  .side-menu ul {
+    list-style: none;
+    padding: 6px;
+  }
+  .side-menu ul li {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 6px;
+    font-style: italic;
+    font-weight: bold;
+    border-style: dotted;
+    border-color: #000000;
+    border-width: 0.001cm;
+    margin-bottom: 4px;
+  }
+  .side-menu ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  .menu-toggle {
+    cursor: pointer;
+    padding: 1px;
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    z-index: 999;
+    background-color: white;
+  }
+  .bar {
+    width: 12px;
+    height: 1px;
+    margin: 3px;
+    transition: 0.4s;
+    background-color: #456ca6;
+  }
+  
+div.doc{
+  background-color: white;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  border-radius: 10px;
+  padding: 5px;
+  margin-bottom: 12px;
+}
+img.lia{
+  width: 60px;
+}
+h2.dc{
+  font-size: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  background-color: #0000006b;
+}
+h4.dc{
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 3px;
+}
+h3.liasse{
+  font-size: 8px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+}
+
+p.liasse{
+  font-size: 6px;
+}
+h5.goto{
+  font-size: 9px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #e1d102;
+  margin-bottom: 3px;
+}
+a.publi{
+  font-size: 5px;
+  text-decoration: none;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ffff ;
+  border-radius: 20px;
+  text-align: center;
+  padding: 5px;
+  position: relative;
+  left: 7%;
+}
